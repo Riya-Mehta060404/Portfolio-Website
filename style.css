@@ -207,7 +207,7 @@ a{
 .project-card{
     width: 90%;
     height: 550px;
-    background-image:url(Img/TwitterCloneSS.png);
+    background-image:url(TwitterCloneSS.png);
 
     background-size: cover;
     position: relative;
